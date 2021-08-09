@@ -1,0 +1,19 @@
+{
+  "name": "@ishchts/test-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishchts/test-npm.git"
+  },
+  "author": "Ilya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishchts/test-npm/issues"
+  },
+  "homepage": "https://github.com/ishchts/test-npm#readme"
+}
