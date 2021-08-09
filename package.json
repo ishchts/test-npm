@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ishchts/test-npm/issues"
   },
-  "homepage": "https://github.com/ishchts/test-npm#readme"
+  "homepage": "https://github.com/ishchts/test-npm#readme",
+  "publishConfig": {
+    "@ishchts:registry": "https://npm.pkg.github.com"
+  }
 }
